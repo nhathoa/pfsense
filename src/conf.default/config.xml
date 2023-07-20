@@ -4,8 +4,8 @@
 	<lastchange></lastchange>
 	<system>
 		<optimization>normal</optimization>
-		<hostname>pfSense</hostname>
-		<domain>home.arpa</domain>
+		<hostname>utm</hostname>
+		<domain>realtech.local</domain>
 		<dnsserver></dnsserver>
 		<dnsallowoverride></dnsallowoverride>
 		<group>
@@ -34,7 +34,7 @@
 		</user>
 		<nextuid>2000</nextuid>
 		<nextgid>2000</nextgid>
-		<timeservers>2.pfsense.pool.ntp.org</timeservers>
+		<timeservers>time.google.com</timeservers>
 		<webgui>
 			<protocol>https</protocol>
 			<loginautocomplete></loginautocomplete>
